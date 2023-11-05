@@ -7,7 +7,7 @@ Asignatura: M2.859 / Semestre: 2023-4 / Fecha: 14-11-2023
 ## Descripción del repositorio
 En este repositorio se pueden encontrar las tres visualizaciónes que se han creado para dar solución a la práctica. Dos de ellas han sido creadas mediante Flourish y una mediante Tableau Public.
 
-Las visualizaciones son las siguientes:
+Las visualizaciones asignadas son las siguientes:
 
 * Pie Chart: Representación sobre la inversión energética mundial en energías limpias y en combustibles fósiles en 2023.
 * Slope Chart: Representación sobre el consumo de energía por persona en diferentes países entre 1965 y 2022.
