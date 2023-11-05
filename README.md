@@ -1,4 +1,4 @@
-# PEC2---Visualizacion-de-datos
+# PEC2-Visualizacion-de-datos
 Asignatura: M2.859 / Semestre: 2023-4 / Fecha: 14-11-2023
 
 ## Autor
