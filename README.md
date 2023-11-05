@@ -21,7 +21,7 @@ Las visualizaciones son las siguientes:
 
 ## Fuentes de datos
 
-Conjuntos de datos escogidos:
+Conjuntos de datos escogidos para crear las visualizaciones:
 
 * [Pie Chart](https://www.iea.org/data-and-statistics/charts/global-energy-investment-in-clean-energy-and-in-fossil-fuels-2015-2023)
 * [Slope Chart](https://ourworldindata.org/energy)
